@@ -37,7 +37,8 @@ As a result of my consultancy, I need to present a model that show a rank of cli
 
 # Attribute List
 
-![image](https://user-images.githubusercontent.com/85264359/129464212-df36b06e-d1a0-4cbd-8ba3-198ad89edc7e.png)
+![image](https://user-images.githubusercontent.com/85264359/129487323-f322d8c7-d42f-469c-b0e4-47be6d993c7e.png)
+
 
 # Solution Strategy
 
