@@ -137,6 +137,7 @@ Now with a model built, I can answer the questions made by the product team.
 
 
 4. How many calls does the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
+5. 
 	A: To reach 80% the sales team will have to make 23317 calls
 
 Gains Resume : suposing that each vehicle insurance was sell at 1900 and 71% of intrested clients purchase this insurance, by making 20000 calls it should results in $26.980.000,00 with a lift in gain araund 2.5 than the base line. 
