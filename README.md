@@ -94,7 +94,7 @@ Tests were performed using the following algorithms:
 
 **LGBM Classifier**
 
-# 6. Machine Learning Model Performance
+# Machine Learning Model Performance
 
 **Single Performance**
 
