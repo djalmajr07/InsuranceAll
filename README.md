@@ -140,7 +140,7 @@ Now with a model built, I can answer the questions made by the product team.
 
 	A: To reach 80% the sales team will have to make 23317 calls
 
-Gains Resume : suposing that each vehicle insurance was sell at 1900 and 71% of intrested clients purchase this insurance, by making 20000 calls it should results in $26.980.000,00 with a lift in gain araund 2.5 than the base line. 
+Gains Resume : suposing that each vehicle insurance was sell at 1900 and knowing that 71% of intrested represents 90.170 clients, let's consider that 10.500 out of 90.170 (conversion rate 11.67%) accepted to purchase this insurance, it should results in $19.950.000,00 with a lift in gain araund 3 than the base line. 
 
 
 ![image](https://user-images.githubusercontent.com/85264359/129485589-92709c97-4a1a-43e2-bace-7b3945cdfde4.png)
